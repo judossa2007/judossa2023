@@ -1,6 +1,7 @@
 # judossa2023
 # Seja Bem-vindo! 🎉 
 Bem-vindo ao repositório! 😄
-![Boas-vindas](https://media.giphy.com/media/3o7TKz3kmfwh6Uqkli/giphy.gif) 
-Este repositório é dedicado a [descreva o propósito do repositório aqui]. 
+![Boas-vindas](https://tenor.com/pt-BR/view/happy-happy-happy-gif-6201622217547275472) 
+
+Este repositório é dedicado a [para APRENDIZAGEM]. 
 Sinta-se à vontade para explorar, contribuir e fazer perguntas! ## 
